@@ -19,7 +19,6 @@ public class ControlEstacionamiento {
 
             if (horas < 0) {
                 System.out.println("Las horas negativas no son válidas");
-                continue;
             }
 
             double costo = horas * 15.0;
