@@ -85,6 +85,5 @@ public class Paqueteria {
         System.out.println("Paquetes rechazados: " + rechazados);
         System.out.println("Paquetes fragiles aceptados: " + fragilesAceptados);
 
-        ingresa.close();
     }
 }
