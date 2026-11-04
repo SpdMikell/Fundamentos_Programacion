@@ -53,8 +53,6 @@ public class Paqueteria {
                 costoPeso = 20;
             } else {
                 System.out.println("Tipo no valido.");
-                rechazados++;
-                paquete++;
                 continue;
             }
 
